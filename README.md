@@ -37,7 +37,7 @@
       <br>
       <br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,linux,cs,cpp,arduino,kubernetes,spring,aws&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,linux,cs,cpp,arduino,kubernetes,spring,aws,angular&theme=dark" />
       </a>
     </kbd>
 </p>
