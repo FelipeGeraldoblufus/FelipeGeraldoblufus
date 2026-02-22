@@ -1,7 +1,7 @@
 
 <img align="right" src="https://media.tenor.com/jNccxJwSwVIAAAAi/valorant-omen-cat-dance.gif" width="250">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=315BB9&width=435&lines=Blufus;Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=315BB9&width=435&lines=Blufus;Junior+Developer)](https://git.io/typing-svg)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-315BB9?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-geraldo-zamorano)
 
@@ -19,7 +19,7 @@
       <br>
       <br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,golang,ts,js,php&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=py,golang,ts,js,php,java&theme=dark" />
       </a>
     </kbd>
       <br>
@@ -28,7 +28,7 @@
       <br>
       <br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=fastapi,html,css,nestjs,react,docker,gcp,postman&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=fastapi,nestjs,react,docker,gcp,postman,nextjs&theme=dark" />
       </a>
     </kbd>
       <br>
@@ -37,7 +37,7 @@
       <br>
       <br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,linux,cs,cpp,arduino,kubernetes,spring,aws,angular&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=linux,cs,cpp,arduino,spring,aws,angular,express,kubernetes&theme=dark" />
       </a>
     </kbd>
 </p>
